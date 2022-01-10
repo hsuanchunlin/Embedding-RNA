@@ -484,7 +484,7 @@ fig.update_traces(
 
 fig.show()
 ```
-
+![png](3D_1.png)
 
 
 ### Use seaborn to show the 9th two nucleotide and binding ability
@@ -725,7 +725,7 @@ fig.update_traces(
 )
 fig.show()
 ```
-
+![png](2D_1.png)
 
 
 ### 2D t-SNE result with association affinity in z axis
@@ -745,7 +745,7 @@ fig.update_traces(
 )
 ```
 
-
+![png](3D_2.png)
 
 ### 3D t-SNE Demo
 
@@ -922,5 +922,7 @@ fig.update_traces(
 )
 fig.show()
 ```
+
+![png](3D_3.png)
 
 
