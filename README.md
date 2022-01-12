@@ -503,7 +503,7 @@ sns.scatterplot(data=df_cp, x='L91', y='RKA')
 
 
     
-![png](output_26_1.png)
+![png](images/output_26_1.png)
     
 
 
@@ -725,7 +725,7 @@ fig.update_traces(
 )
 fig.show()
 ```
-![png](2D_1.png)
+![png](images/2D_1.png)
 
 
 ### 2D t-SNE result with association affinity in z axis
@@ -745,7 +745,7 @@ fig.update_traces(
 )
 ```
 
-![png](3D_2.png)
+![png](images/3D_2.png)
 
 ### 3D t-SNE Demo
 
@@ -923,6 +923,6 @@ fig.update_traces(
 fig.show()
 ```
 
-![png](3D_3.png)
+![png](images/3D_3.png)
 
 
